@@ -1,4 +1,4 @@
-
+//星耀云官网：www.sgvps.cn  关注官网活动有机会免费得永久虚拟主机，不定时限量免费，免费，免费！
         // 获取表单和结果显示区域
         const form = document.getElementById('uploadForm');
         const resultDiv = document.getElementById('result');

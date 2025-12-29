@@ -35,3 +35,9 @@
    ```bash
    git clone <你的仓库地址>
    # 或直接下载ZIP包并解压
+
+## 📞 技术支持
+
+- 官网：https://www.sgvps.cn
+- 问题反馈：提交Issues到GitHub仓库
+- 技术博客：https://blog.sgvps.cn
